@@ -11,3 +11,4 @@ optuna>=3.5
 openTSNE>=1.0
 jupyterlab>=4
 ipykernel>=6
+streamlit=1.44.0
